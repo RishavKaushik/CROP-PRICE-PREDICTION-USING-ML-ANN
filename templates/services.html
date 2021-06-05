@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>agriculture page</title>
+    <!--<link rel="stylesheet" type="text/css" href="{{url_for('static',filename='css/style.css')}}">-->
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+
+    <style>
+
+    .row.content {height: 550px}
+
+    .sidenav {
+      background-color: #f1f1f1;
+      height: 100%;
+      padding 15px}
+
+      a.more-link{ background-color: #000000;
+         color: white;
+         padding: 14px 25px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+        }
+
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+
+body {font-family: Arial, Helvetica, sans-serif;
+background-image:url(https://fwi-wp-assets-live.s3-eu-west-1.amazonaws.com/sites/1/2018/05/1410518-a-sprayer-spraying-in-winter-wheat-c-tim-scrivener-2752015-25255.jpg);
+background-repeat : no-repeat;
+background-size : cover;
+}
+* {box-sizing: border-box}
+
+input[type=text], input[type=email], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+ signin{
+  background-color: #f1f1f1;
+  text-align: center;
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float:left;
+  width: 24%;
+  padding: 10px;
+  margin-left:3px;
+  margin-right:3px;
+  transition:1s;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+.column:hover {
+transform:scale(1.2);
+background: #ff800a;
+box-shadow:2px 2px 2px #000;
+z-index:2;
+ }
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+p{
+color:red;
+}
+
+</style>
+
+</head>
+    <body>
+
+    <div class="topnav">
+
+        <a href="/">Home</a>
+         <a href="/about">About</a>
+         <a href="/services">Services</a>
+        <a href="/predictinfo" class="active">Predict</a>
+         <a href="/logout" style="float: right;">Logout</a>
+
+    </div>
+<div><br><br><br><br></div>
+    <div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <center><br><br><br><br><a href="/coconut"><h2>Coconut Diseases & Symptoms</h2>
+    <p>Click to know more</p>
+	</a></center>
+  </div>
+   <div class="column" style="background-color:#aaa;">
+  <center><br><br><br><br><a href="/cocoa"><h2>Cocoa Diseases & Symptoms</h2>
+    <p>Click to know more</p>
+	</a></center>
+  </div>
+   <div class="column" style="background-color:#aaa;">
+  <center><br><br><br><br><a href="/arecanut"><h2> Arecanut Diseases & Symptoms </h2>
+    <p>Click to know more</p>
+	</a></center>
+  </div>
+   <div class="column" style="background-color:#aaa;">
+  <center><br><br><br><br><a href="/paddy"><h2>Paddy Diseases & Symptoms </h2>
+    <p>Click to know more</p>
+	</a></center>
+  </div>
+</div>
+<div><br></div>
+
+</body>
+</html>
