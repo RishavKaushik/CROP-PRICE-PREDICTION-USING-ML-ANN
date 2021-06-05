@@ -1,0 +1,324 @@
+Year,Location,Area,Rainfall,Temperature,Soil,Irrigation,yeilds,Humidity,Crops,price
+2004,Mangalore,1279,2903.1,27,Coastal alluvials,Drip,2570,57,Coconut,200000
+2004,Mangalore,13283,2903.1,27,Laterite soil,Drip,27170,57.5,Coconut,4847
+2004,Mangalore,52119,2903.1,27,Dark brown alayey soil,Drip,114744,57,Coconut,51239
+2004,Mangalore,725,2996.6,27,Coastal alluvials,Drip,1402,55,Coconut,216396
+2004,Mangalore,12885,2996.6,27,Laterite soil,Drip,23456,56,Coconut,2644
+2004,Mangalore,51179,2996.6,27,Dark brown alayey soil,Drip,107809,54,Coconut,44235
+2004,Mangalore,468,3522.8,27.2,Coastal alluvials,Drip,1132,58,Coconut,203317
+2004,Mangalore,11841,3522.8,27.2,Laterite soil,Drip,23960,58,Coconut,2134
+2004,Mangalore,50975,3522.8,27.2,Dark brown alayey soil,Drip,126487,59,Coconut,45186
+2004,Mangalore,206,3729.8,27,Coastal alluvials,Drip,804,50,Coconut,238542
+2004,Mangalore,10922,3729.8,27,Laterite soil,Drip,30362,54,Coconut,1516
+2004,Mangalore,51390,3729.8,27,Dark brown alayey soil,Drip,124492,53,Coconut,57259
+2004,Mangalore,177,2746.2,27,Coastal alluvials,Drip,792,52,Coconut,234779
+2004,Mangalore,10723,2746.2,27,Laterite soil,Drip,34153,51,Coconut,1493
+2004,Mangalore,51709,2746.2,27,Dark brown alayey soil,Drip,132551,57,Coconut,64409
+2004,Mangalore,146,3360,27.2,Coastal alluvials,Drip,338,57,Coconut,249978
+2004,Mangalore,10910,3360,27.2,Laterite soil,Drip,22966,60,Coconut,637
+2004,Mangalore,51355,3360,27.2,Dark brown alayey soil,Drip,131763,57,Coconut,43311
+2004,Mangalore,160,3605.4,27.1,Coastal alluvials,Drip,404,57,Coconut,24848
+2004,Mangalore,10912,3605.4,27.1,Laterite soil,Drip,24184,54,Coconut,761
+2004,Mangalore,51353,3605.4,27.1,Dark brown alayey soil,Drip,124387,54.5,Coconut,45608
+2004,Mangalore,142,3512.4,26.8,Coastal alluvials,Drip,343,56.6,Coconut,234581
+2004,Mangalore,10505,3512.4,26.8,Laterite soil,Drip,23099,55.5,Coconut,646
+2004,Mangalore,51040,3512.4,26.8,Dark brown alayey soil,Drip,117825.84,58.5,Coconut,43562
+2004,Mangalore,154,3296,37,Coastal alluvials,Drip,336,59.5,Coconut,200000
+2004,Mangalore,10318,3296,37,Laterite soil,Drip,22594,55,Coconut,4847
+2004,Mangalore,48083,3296,37,Dark brown alayey soil,Drip,116481.07,53,Coconut,51239
+2004,Mangalore,143,3550,38,Coastal alluvials,Drip,316,53.5,Coconut,216396
+2004,Mangalore,9283,3550,38,Laterite soil,Drip,21400,52.5,Coconut,2644
+2004,Mangalore,47200,3550,38,Dark brown alayey soil,Drip,122102,56,Coconut,44235
+2004,Mangalore,158,3654,39,Coastal alluvials,Drip,382,57,Coconut,203317
+2004,Mangalore,8982,3654,39,Laterite soil,Drip,19578,57.5,Coconut,2134
+2004,Mangalore,46990,3654,39,Dark brown alayey soil,Drip,121037,57,Coconut,45186
+2004,Mangalore,103,233,40,Coastal alluvials,Drip,231,55,Coconut,238542
+2004,Mangalore,8239,233,40,Laterite soil,Drip,18951,56,Coconut,1516
+2004,Mangalore,44563,233,40,Dark brown alayey soil,Drip,110579,54,Coconut,57259
+2004,Mangalore,96,234,41,Coastal alluvials,Drip,221,58,Coconut,234779
+2004,Mangalore,6949,234,41,Laterite soil,Drip,15362,58,Coconut,1493
+2004,Mangalore,44663,234,41,Dark brown alayey soil,Drip,120373,59,Coconut,64409
+2004,Mangalore,110,3105,42,Coastal alluvials,Drip,291,50,Coconut,249978
+2004,Mangalore,6824,3105,42,Laterite soil,Drip,17231,54,Coconut,637
+2004,Mangalore,43013,3105,42,Dark brown alayey soil,Drip,119359,53,Coconut,43311
+2004,Mangalore,95,236,43,Coastal alluvials,Drip,283,52,Coconut,24848
+2004,Mangalore,6441,236,43,Laterite soil,Drip,17690,51,Coconut,761
+2004,Mangalore,4012,2903.1,27,Coastal alluvials,Basin,7157,57,Coconut,45608
+2004,Mangalore,4877,2903.1,27,Laterite soil,Basin,8700,57,Coconut,234581
+2004,Mangalore,4930,2903.1,27,Dark brown alayey soil,Basin,41266,60,Coconut,646
+2004,Mangalore,4954,2996.6,27,Coastal alluvials,Basin,8838,57,Coconut,43562
+2004,Mangalore,5019,2996.6,27,Laterite soil,Basin,8954,57,Coconut,200000
+2004,Mangalore,5127,2996.6,27,Dark brown alayey soil,Basin,42915,54,Coconut,4847
+2004,Mangalore,5174,3522.8,27.2,Coastal alluvials,Basin,9230,54.5,Coconut,51239
+2004,Mangalore,5294,3522.8,27.2,Laterite soil,Basin,44313,56.6,Coconut,216396
+2004,Mangalore,5474,3522.8,27.2,Dark brown alayey soil,Basin,45820,55.5,Coconut,2644
+2004,Mangalore,5864,3729.8,27,Coastal alluvials,Basin,49084,58.5,Coconut,44235
+2004,Mangalore,7028,3729.8,27,Laterite soil,Basin,86311,59.5,Coconut,203317
+2004,Mangalore,7403,3729.8,27,Dark brown alayey soil,Basin,57642,55,Coconut,2134
+2004,Mangalore,7501,2746.2,27,Coastal alluvials,Basin,58405,53,Coconut,45186
+2004,Mangalore,7714,2746.2,27,Laterite soil,Basin,60751,53.5,Coconut,238542
+2004,Mangalore,7856,2746.2,27,Dark brown alayey soil,Basin,109506,52.5,Coconut,1516
+2004,Mangalore,32,3360,27.2,Coastal alluvials,Basin,114,56,Coconut,57259
+2004,Mangalore,1,3360,27.2,Laterite soil,Basin,3,57,Coconut,234779
+2004,Mangalore,30,3360,27.2,Dark brown alayey soil,Basin,95,57.5,Coconut,1493
+2004,Mangalore,6,3605.4,27.1,Coastal alluvials,Basin,19,57,Coconut,64409
+2004,Mangalore,15,3605.4,27.1,Laterite soil,Basin,54,55,Coconut,249978
+2004,Mangalore,4,3605.4,27.1,Dark brown alayey soil,Basin,13,56,Coconut,200000
+2004,Mangalore,39,3512.4,26.8,Coastal alluvials,Basin,123,54,Coconut,4847
+2004,Mangalore,6,3512.4,26.8,Laterite soil,Basin,19,58,Coconut,51239
+2004,Mangalore,12,3512.4,26.8,Dark brown alayey soil,Basin,32,58,Coconut,216396
+2004,Mangalore,3,3296,37,Coastal alluvials,Basin,8,59,Coconut,2644
+2004,Mangalore,17,3296,37,Laterite soil,Basin,50,50,Coconut,44235
+2004,Mangalore,3,3296,37,Dark brown alayey soil,Basin,10,54,Coconut,203317
+2004,Mangalore,9,3550,38,Coastal alluvials,Basin,29,53,Coconut,2134
+2004,Mangalore,21,3550,38,Laterite soil,Basin,44,52,Coconut,45186
+2004,Mangalore,11,3550,38,Dark brown alayey soil,Basin,33,51,Coconut,238542
+2004,Mangalore,4,3654,39,Coastal alluvials,Basin,14,57,Coconut,1516
+2004,Mangalore,15,3654,39,Laterite soil,Basin,56,57,Coconut,57259
+2004,Mangalore,8,3654,39,Dark brown alayey soil,Basin,26,60,Coconut,234779
+2004,Mangalore,29,233,40,Coastal alluvials,Basin,98,57,Coconut,1493
+2004,Mangalore,1,233,40,Laterite soil,Basin,3,57,Coconut,64409
+2004,Mangalore,13736,233,40,Dark brown alayey soil,Basin,58637,54,Coconut,249978
+2004,Mangalore,14003,234,41,Coastal alluvials,Basin,59777,54.5,Coconut,637
+2004,Mangalore,14179,234,41,Laterite soil,Basin,60528,56.6,Coconut,43311
+2004,Mangalore,14319,234,41,Dark brown alayey soil,Basin,61126,55.5,Coconut,24848
+2004,Mangalore,14464,3105,42,Coastal alluvials,Basin,623687,58.5,Coconut,761
+2004,Mangalore,14876,3105,42,Laterite soil,Basin,63504,59.5,Coconut,45608
+2004,Mangalore,14976,3105,42,Dark brown alayey soil,Basin,63931,55,Coconut,234581
+2004,Mangalore,15009,236,43,Coastal alluvials,Basin,73730,53,Coconut,646
+2004,Mangalore,15114,2903.1,27,Coastal alluvials,Spray,118416,53.5,Coconut,43562
+2004,Mangalore,16224,2903.1,27,Laterite soil,Spray,130132,52.5,Coconut,200000
+2004,Mangalore,17095,2903.1,27,Dark brown alayey soil,Spray,154889,56,Coconut,4847
+2004,Mangalore,17512,2996.6,27,Coastal alluvials,Spray,171739,57,Coconut,51239
+2004,Mangalore,17587,2996.6,27,Laterite soil,Spray,172475,57.5,Coconut,216396
+2004,Mangalore,17771,2996.6,27,Dark brown alayey soil,Spray,177939,57,Coconut,2644
+2004,Mangalore,17825,3522.8,27.2,Coastal alluvials,Spray,313547,55,Coconut,44235
+2004,Mangalore,3147,3522.8,27.2,Laterite soil,Spray,2783,56,Coconut,203317
+2004,Mangalore,2578,3522.8,27.2,Dark brown alayey soil,Spray,1533,54,Coconut,2134
+2004,Mangalore,1591,3729.8,27,Coastal alluvials,Spray,1647,58,Coconut,45186
+2004,Mangalore,1298,3729.8,27,Laterite soil,Spray,975,58,Coconut,238542
+2004,Mangalore,4,3729.8,27,Dark brown alayey soil,Spray,2,59,Coconut,1516
+2004,Mangalore,1122,2746.2,27,Coastal alluvials,Spray,836,50,Coconut,57259
+2004,Mangalore,917,2746.2,27,Laterite soil,Spray,806,54,Coconut,234779
+2004,Mangalore,819,2746.2,27,Dark brown alayey soil,Spray,880,53,Coconut,1493
+2004,Mangalore,619,3360,27.2,Coastal alluvials,Spray,770,52,Coconut,64409
+2004,Mangalore,391,3360,27.2,Laterite soil,Spray,395,51,Coconut,249978
+2004,Mangalore,211,3360,27.2,Dark brown alayey soil,Spray,187,57,Coconut,637
+2004,Mangalore,153,3605.4,27.1,Coastal alluvials,Spray,187,57,Coconut,43311
+2004,Mangalore,111,3605.4,27.1,Laterite soil,Spray,121,60,Coconut,24848
+2004,Mangalore,76,3605.4,27.1,Dark brown alayey soil,Spray,103,57,Coconut,761
+2004,Mangalore,53,3512.4,26.8,Coastal alluvials,Spray,71,57,Coconut,45608
+2004,Mangalore,2688,3512.4,26.8,Laterite soil,Spray,3961,54,Coconut,234581
+2004,Mangalore,2311,3512.4,26.8,Dark brown alayey soil,Spray,4247,54.5,Coconut,646
+2004,Mangalore,2188,3296,37,Coastal alluvials,Spray,3290,56.6,Coconut,43562
+2004,Mangalore,1998,3296,37,Laterite soil,Spray,3138,55.5,Coconut,200000
+2004,Mangalore,2006,3296,37,Dark brown alayey soil,Spray,3423,58.5,Coconut,4847
+2004,Mangalore,2034,3550,38,Coastal alluvials,Spray,3899,59.5,Coconut,51239
+2004,Mangalore,2035,3550,38,Laterite soil,Spray,4015,55,Coconut,216396
+2004,Mangalore,2074,3550,38,Dark brown alayey soil,Spray,4279,53,Coconut,2644
+2004,Mangalore,2127,3654,39,Coastal alluvials,Spray,4167,53.5,Coconut,44235
+2004,Mangalore,2090,3654,39,Laterite soil,Spray,4479,52.5,Coconut,203317
+2004,Mangalore,2059,3654,39,Dark brown alayey soil,Spray,3699,56,Coconut,2134
+2004,Mangalore,2050,233,40,Coastal alluvials,Spray,4904,57,Coconut,45186
+2004,Mangalore,1865,233,40,Laterite soil,Spray,2821,57.5,Coconut,238542
+2004,Mangalore,1841,233,40,Dark brown alayey soil,Spray,3472,57,Coconut,1516
+2004,Mangalore,1799,234,41,Coastal alluvials,Spray,3647,55,Coconut,200000
+2004,Mangalore,1468,234,41,Laterite soil,Spray,393,56,Coconut,4847
+2004,Mangalore,568,234,41,Dark brown alayey soil,Spray,167,54,Coconut,51239
+2004,Mangalore,407,3105,42,Coastal alluvials,Spray,71,58,Coconut,216396
+2004,Mangalore,177,3105,42,Laterite soil,Spray,52,58,Coconut,2644
+2004,Mangalore,51,3105,42,Dark brown alayey soil,Spray,12,59,Coconut,44235
+2004,Mangalore,173,236,43,Coastal alluvials,Spray,51,50,Coconut,203317
+2004,Mangalore,201,236,43,Laterite soil,Spray,61,54,Coconut,2134
+2013,Mangalore,206,321,128,Coastal alluvials,Drip,67,53,Cocoa,45186
+2014,Mangalore,243,3654,129,Laterite soil,Drip,62,52,Cocoa,238542
+2015,Mangalore,123,323,130,Dark brown alayey soil,Drip,32,51,Cocoa,1516
+2016,Mangalore,82,324,131,Coastal alluvials,Drip,22,57,Cocoa,57259
+2017,Mangalore,74,3105,132,Laterite soil,Drip,25,57,Cocoa,234779
+2018,Mangalore,18,326,133,Dark brown alayey soil,Drip,4,60,Cocoa,1493
+2004,Kodagu,37,327,134,Coastal alluvials,Drip,9,57,Coffee,64409
+2005,Kodagu,35,328,135,Laterite soil,Drip,12,57,Coffee,249978
+2006,Kodagu,5974,2903.1,136,Dark brown alayey soil,Drip,2089,54,Coffee,637
+2007,Kodagu,6631,2903.1,137,Coastal alluvials,Drip,2810,54.5,Coffee,43311
+2008,Kodagu,6705,2903.1,138,Laterite soil,Drip,841,56.6,Coffee,24848
+2009,Kodagu,5876,2996.6,139,Dark brown alayey soil,Drip,3550,55.5,Coffee,761
+2010,Kodagu,326,2996.6,140,Coastal alluvials,Drip,109,58.5,Coffee,45608
+2011,Kodagu,6470,2996.6,141,Laterite soil,Drip,3368,59.5,Coffee,234581
+2012,Kodagu,6709,3522.8,142,Dark brown alayey soil,Drip,3671,55,Coffee,646
+2013,Kodagu,6186,3522.8,143,Coastal alluvials,Drip,2404,53,Coffee,43562
+2014,Kodagu,6503,3522.8,144,Laterite soil,Drip,2805,53.5,Coffee,200000
+2015,Kodagu,5220,3729.8,145,Dark brown alayey soil,Drip,2331,52.5,Coffee,4847
+2016,Kodagu,4677,3729.8,146,Coastal alluvials,Drip,2088,56,Coffee,51239
+2017,Kodagu,4803,3729.8,147,Laterite soil,Drip,2628,57,Coffee,216396
+2018,Kodagu,3739,2746.2,148,Dark brown alayey soil,Drip,1939,57.5,Coffee,2644
+2004,Kodagu,3529,2746.2,149,Coastal alluvials,Drip,1871,57,Cardamum,44235
+2005,Kodagu,3649,2746.2,150,Laterite soil,Drip,1868,55,Cardamum,203317
+2006,Kodagu,1374,3360,151,Dark brown alayey soil,Drip,127919,56,Cardamum,2134
+2007,Kodagu,933,3360,152,Coastal alluvials,Drip,75340,54,Cardamum,45186
+2008,Kodagu,345,3360,153,Laterite soil,Drip,29170,58,Cardamum,238542
+2009,Kodagu,29,3605.4,154,Dark brown alayey soil,Drip,1901,58,Cardamum,1516
+2010,Kodagu,11,3605.4,155,Coastal alluvials,Drip,972,59,Cardamum,57259
+2011,Kodagu,10,3605.4,156,Laterite soil,Drip,874,50,Cardamum,234779
+2012,Kodagu,7,3512.4,157,Dark brown alayey soil,Drip,592,54,Cardamum,1493
+2013,Kodagu,10,3512.4,158,Coastal alluvials,Drip,864,53,Cardamum,64409
+2014,Kodagu,56,3512.4,159,Laterite soil,Drip,5373,52,Cardamum,249978
+2015,Kodagu,68,3296,160,Dark brown alayey soil,Drip,6589,51,Cardamum,637
+2016,Kodagu,56,3296,161,Coastal alluvials,Drip,5107,57,Cardamum,43311
+2017,Kodagu,66,3296,162,Laterite soil,Drip,5518,57,Cardamum,24848
+2018,Kodagu,55,3550,163,Dark brown alayey soil,Drip,4912,60,Cardamum,761
+2004,Kodagu,42,3550,164,Coastal alluvials,Drip,3830,57,Pepper,45608
+2005,Kodagu,51179,3550,165,Laterite soil,Drip,4,57,Pepper,234581
+2006,Kodagu,468,3654,166,Dark brown alayey soil,Drip,9,54,Pepper,646
+2007,Kodagu,11841,3654,167,Coastal alluvials,Drip,12,54.5,Pepper,43562
+2008,Kodagu,50975,3654,168,Laterite soil,Drip,2089,56.6,Pepper,200000
+2009,Kodagu,206,233,169,Dark brown alayey soil,Drip,2810,55.5,Pepper,4847
+2010,Kodagu,10922,233,170,Coastal alluvials,Drip,841,58.5,Pepper,51239
+2011,Kodagu,51390,233,171,Laterite soil,Drip,3550,59.5,Pepper,216396
+2012,Kodagu,177,234,172,Coastal alluvials,Basin,109,55,Pepper,2644
+2013,Kodagu,10723,234,173,Laterite soil,Basin,3368,53,Pepper,44235
+2014,Kodagu,51709,234,174,Dark brown alayey soil,Basin,3671,53.5,Pepper,203317
+2015,Kodagu,146,3105,175,Coastal alluvials,Basin,2404,52.5,Pepper,2134
+2016,Kodagu,10910,3105,176,Laterite soil,Basin,2805,56,Pepper,45186
+2017,Kodagu,51355,3105,177,Dark brown alayey soil,Basin,2331,57,Pepper,238542
+2018,Kodagu,160,236,178,Coastal alluvials,Basin,2088,57.5,Pepper,1516
+2004,Kodagu,10912,236,179,Laterite soil,Basin,2628,57,Arecanut,200000
+2005,Kodagu,51353,2903.1,180,Dark brown alayey soil,Basin,1939,55,Arecanut,4847
+2006,Kodagu,142,2903.1,181,Coastal alluvials,Basin,1871,56,Arecanut,51239
+2007,Kodagu,10505,2903.1,182,Laterite soil,Basin,1868,54,Arecanut,216396
+2008,Kodagu,51040,2996.6,183,Dark brown alayey soil,Basin,127919,58,Arecanut,2644
+2009,Kodagu,154,2996.6,184,Coastal alluvials,Basin,75340,58,Arecanut,44235
+2010,Kodagu,10318,2996.6,185,Laterite soil,Basin,29170,59,Arecanut,203317
+2011,Kodagu,48083,3522.8,186,Dark brown alayey soil,Basin,1901,50,Arecanut,2134
+2012,Kodagu,143,3522.8,187,Coastal alluvials,Basin,972,54,Arecanut,45186
+2013,Kodagu,9283,3522.8,188,Laterite soil,Basin,874,53,Arecanut,238542
+2014,Kodagu,47200,2903.1,189,Dark brown alayey soil,Basin,592,52,Arecanut,1516
+2015,Kodagu,158,2903.1,190,Coastal alluvials,Basin,864,51,Arecanut,57259
+2016,Kodagu,8982,2903.1,191,Laterite soil,Basin,5373,57,Arecanut,234779
+2017,Kodagu,46990,2996.6,192,Dark brown alayey soil,Basin,6589,57,Arecanut,1493
+2018,Kodagu,103,2996.6,193,Coastal alluvials,Basin,5107,60,Arecanut,64409
+2004,Kodagu,8239,2996.6,194,Laterite soil,Basin,5518,57,Ginger,249978
+2005,Kodagu,44563,3522.8,195,Dark brown alayey soil,Basin,4912,57,Ginger,637
+2006,Kodagu,96,3522.8,196,Coastal alluvials,Basin,3830,54,Ginger,43311
+2007,Kodagu,6949,3522.8,197,Laterite soil,Basin,4,54.5,Ginger,24848
+2008,Kodagu,44663,3729.8,198,Dark brown alayey soil,Basin,9,56.6,Ginger,761
+2009,Kodagu,110,3729.8,199,Coastal alluvials,Basin,12,55.5,Ginger,45608
+2010,Kodagu,6824,3729.8,200,Laterite soil,Basin,2089,58.5,Ginger,234581
+2011,Kodagu,43013,2746.2,201,Dark brown alayey soil,Basin,2810,59.5,Ginger,646
+2012,Kodagu,95,2746.2,202,Coastal alluvials,Basin,841,55,Ginger,43562
+2013,Kodagu,6441,2746.2,203,Laterite soil,Basin,3550,53,Ginger,200000
+2014,Kodagu,4012,3360,204,Dark brown alayey soil,Basin,109,53.5,Ginger,4847
+2015,Kodagu,4877,3360,205,Coastal alluvials,Basin,3368,52.5,Ginger,51239
+2016,Kodagu,4930,3360,206,Laterite soil,Basin,3671,56,Ginger,216396
+2017,Kodagu,4954,3605.4,207,Dark brown alayey soil,Basin,2404,57,Ginger,2644
+2018,Kodagu,5019,3605.4,208,Coastal alluvials,Basin,2805,57.5,Ginger,44235
+2004,Kodagu,5127,3605.4,209,Laterite soil,Basin,2331,57,Tea,203317
+2005,Kodagu,5174,3512.4,210,Coastal alluvials,Basin,2088,55,Tea,2134
+2006,Kodagu,5294,3512.4,211,Laterite soil,Basin,2628,56,Tea,45186
+2007,Kodagu,5474,3512.4,212,Dark brown alayey soil,Basin,1939,54,Tea,238542
+2008,Kodagu,5864,3296,213,Coastal alluvials,Basin,1871,58,Tea,1516
+2009,Kodagu,7028,3296,214,Laterite soil,Basin,1868,58,Tea,57259
+2010,Kodagu,7403,3296,215,Dark brown alayey soil,Spray,127919,59,Tea,234779
+2011,Kodagu,7501,3550,216,Coastal alluvials,Spray,75340,50,Tea,1493
+2012,Kodagu,7714,3550,217,Laterite soil,Spray,29170,54,Tea,64409
+2013,Kodagu,7856,3550,218,Dark brown alayey soil,Spray,1901,53,Tea,249978
+2014,Kodagu,32,3654,219,Coastal alluvials,Spray,972,52,Tea,637
+2015,Kodagu,1,3654,220,Laterite soil,Spray,874,51,Tea,43311
+2016,Kodagu,30,3654,221,Dark brown alayey soil,Spray,592,57,Tea,24848
+2017,Kodagu,6,233,222,Coastal alluvials,Spray,864,57,Tea,761
+2018,Kodagu,15,233,27,Laterite soil,Spray,5373,60,Tea,45608
+2004,kasaragodu,4,233,27,Dark brown alayey soil,Spray,6589,57,Paddy,234581
+2005,kasaragodu,39,234,27,Coastal alluvials,Spray,5107,57,Paddy,646
+2006,kasaragodu,6,234,27,Laterite soil,Spray,5518,54,Paddy,43562
+2007,kasaragodu,12,234,27,Dark brown alayey soil,Spray,4912,54.5,Paddy,200000
+2008,kasaragodu,3,3105,27.2,Coastal alluvials,Spray,3830,56.6,Paddy,4847
+2009,kasaragodu,17,3105,27.2,Laterite soil,Spray,313547,55.5,Paddy,51239
+2010,kasaragodu,3,3105,27.2,Dark brown alayey soil,Spray,2783,58.5,Paddy,216396
+2011,kasaragodu,9,236,27,Coastal alluvials,Spray,1533,59.5,Paddy,2644
+2012,kasaragodu,21,236,27,Laterite soil,Spray,1647,55,Paddy,44235
+2013,kasaragodu,11,2903.1,27,Dark brown alayey soil,Spray,975,53,Paddy,203317
+2014,kasaragodu,4,2903.1,27,Coastal alluvials,Spray,2,53.5,Paddy,2134
+2015,kasaragodu,15,2903.1,27,Laterite soil,Spray,836,52.5,Paddy,45186
+2016,kasaragodu,8,2996.6,27,Dark brown alayey soil,Spray,806,56,Paddy,238542
+2017,kasaragodu,29,2996.6,27.2,Coastal alluvials,Spray,880,57,Paddy,1516
+2018,kasaragodu,1,2996.6,27.2,Laterite soil,Spray,770,57.5,Paddy,200000
+2004,kasaragodu,13736,3522.8,27.2,Dark brown alayey soil,Spray,395,57,Groundnut,4847
+2005,kasaragodu,14003,3522.8,27.1,Coastal alluvials,Spray,187,55,Groundnut,51239
+2006,kasaragodu,14179,3522.8,27.1,Laterite soil,Spray,187,56,Groundnut,216396
+2007,kasaragodu,14319,2903.1,27.1,Dark brown alayey soil,Spray,121,54,Groundnut,2644
+2008,kasaragodu,14464,2903.1,26.8,Coastal alluvials,Spray,103,58,Groundnut,44235
+2009,kasaragodu,14876,2903.1,26.8,Laterite soil,Spray,71,58,Groundnut,203317
+2010,kasaragodu,14976,2996.6,26.8,Dark brown alayey soil,Spray,3961,59,Groundnut,2134
+2011,kasaragodu,15009,2996.6,37,Coastal alluvials,Spray,4247,50,Groundnut,45186
+2012,kasaragodu,15114,2996.6,37,Laterite soil,Spray,3290,54,Groundnut,238542
+2013,kasaragodu,16224,3522.8,37,Dark brown alayey soil,Spray,3138,53,Groundnut,1516
+2014,kasaragodu,17095,3522.8,38,Coastal alluvials,Spray,3423,52,Groundnut,57259
+2015,kasaragodu,17512,3522.8,38,Laterite soil,Spray,3899,51,Groundnut,234779
+2016,kasaragodu,17587,3729.8,38,Dark brown alayey soil,Spray,4015,57,Groundnut,1493
+2017,kasaragodu,17771,3729.8,39,Coastal alluvials,Spray,4279,57,Groundnut,64409
+2018,kasaragodu,17825,3729.8,39,Laterite soil,Spray,4167,60,Groundnut,249978
+2004,kasaragodu,3147,2746.2,39,Coastal alluvials,Spray,4479,57,Blackgram,637
+2005,kasaragodu,2578,2746.2,40,Laterite soil,Spray,3699,57,Blackgram,43311
+2006,kasaragodu,1591,2746.2,40,Dark brown alayey soil,Spray,4904,54,Blackgram,24848
+2007,kasaragodu,1298,3360,40,Coastal alluvials,Spray,2821,54.5,Blackgram,761
+2008,kasaragodu,4,3360,41,Laterite soil,Spray,3472,56.6,Blackgram,45608
+2009,kasaragodu,1122,3360,41,Dark brown alayey soil,Drip,3647,55.5,Blackgram,234581
+2010,kasaragodu,917,3605.4,41,Coastal alluvials,Drip,393,58.5,Blackgram,646
+2011,kasaragodu,819,3605.4,42,Laterite soil,Drip,167,59.5,Blackgram,43562
+2012,kasaragodu,619,3605.4,42,Dark brown alayey soil,Drip,71,55,Blackgram,200000
+2013,kasaragodu,391,3512.4,42,Coastal alluvials,Drip,52,53,Blackgram,4847
+2014,kasaragodu,211,3512.4,43,Laterite soil,Drip,313547,53.5,Blackgram,51239
+2015,kasaragodu,153,3512.4,43,Dark brown alayey soil,Drip,2783,52.5,Blackgram,216396
+2016,kasaragodu,111,3296,27,Coastal alluvials,Drip,1533,56,Blackgram,2644
+2017,kasaragodu,76,3296,27,Laterite soil,Drip,1647,59.5,Blackgram,44235
+2018,kasaragodu,53,3296,27,Dark brown alayey soil,Drip,975,55,Blackgram,203317
+2004,kasaragodu,2688,3550,27,Coastal alluvials,Drip,2,53,Cashew,2134
+2005,kasaragodu,2311,3550,27,Laterite soil,Drip,836,53.5,Cashew,45186
+2006,kasaragodu,2188,3550,27,Dark brown alayey soil,Drip,806,52.5,Cashew,238542
+2007,kasaragodu,1998,3654,27.2,Coastal alluvials,Drip,880,56,Cashew,1516
+2008,kasaragodu,2006,3654,27.2,Laterite soil,Drip,770,57,Cashew,57259
+2009,kasaragodu,2034,3654,27.2,Dark brown alayey soil,Drip,395,57.5,Cashew,234779
+2010,kasaragodu,2035,233,27,Coastal alluvials,Drip,187,57,Cashew,1493
+2011,kasaragodu,2074,233,27,Laterite soil,Drip,187,55,Cashew,64409
+2012,kasaragodu,2127,233,27,Dark brown alayey soil,Drip,121,56,Cashew,249978
+2013,kasaragodu,2090,234,27,Coastal alluvials,Drip,103,54,Cashew,637
+2014,kasaragodu,2059,234,27,Laterite soil,Drip,71,58,Cashew,43311
+2015,kasaragodu,2050,234,27,Dark brown alayey soil,Drip,3961,58,Cashew,24848
+2016,kasaragodu,1865,3105,27.2,Coastal alluvials,Drip,4247,59,Cashew,761
+2017,kasaragodu,1841,3105,27.2,Laterite soil,Drip,3290,50,Cashew,45608
+2018,kasaragodu,1799,3105,27.2,Dark brown alayey soil,Drip,3138,54,Cashew,234581
+2004,kasaragodu,1468,236,27.1,Coastal alluvials,Drip,3423,53,Coconut,646
+2005,kasaragodu,568,236,27.1,Laterite soil,Drip,3899,59.5,Coconut,43562
+2006,kasaragodu,407,2903.1,27.1,Dark brown alayey soil,Drip,4015,55,Coconut,200000
+2007,kasaragodu,177,2903.1,26.8,Coastal alluvials,Drip,4279,53,Coconut,4847
+2008,kasaragodu,51,2903.1,26.8,Laterite soil,Drip,4167,53.5,Coconut,51239
+2009,kasaragodu,173,2996.6,26.8,Dark brown alayey soil,Drip,4479,52.5,Coconut,216396
+2010,kasaragodu,201,2996.6,37,Coastal alluvials,Drip,3699,56,Coconut,2644
+2011,kasaragodu,206,2996.6,37,Laterite soil,Drip,4904,57,Coconut,44235
+2012,kasaragodu,243,3522.8,37,Coastal alluvials,Drip,2821,57.5,Coconut,203317
+2013,kasaragodu,123,3522.8,38,Laterite soil,Drip,3472,57,Coconut,2134
+2014,kasaragodu,82,3522.8,38,Dark brown alayey soil,Drip,3647,55,Coconut,45186
+2015,kasaragodu,74,2903.1,38,Coastal alluvials,Drip,393,56,Coconut,238542
+2016,kasaragodu,18,2903.1,39,Laterite soil,Drip,167,54,Coconut,1516
+2017,kasaragodu,37,2903.1,39,Dark brown alayey soil,Drip,71,58,Coconut,200000
+2018,kasaragodu,35,2996.6,39,Coastal alluvials,Drip,52,58,Coconut,4847
+2019,kasaragodu,5974,2996.6,40,Laterite soil,Drip,2570,59,Coconut,51239
+2004,kasaragodu,6631,2996.6,40,Dark brown alayey soil,Drip,27170,50,Ginger,216396
+2005,kasaragodu,6705,3522.8,40,Coastal alluvials,Drip,114744,54,Ginger,2644
+2006,kasaragodu,5876,3522.8,41,Laterite soil,Drip,1402,53,Ginger,44235
+2007,kasaragodu,326,3522.8,41,Dark brown alayey soil,Basin,23456,59.5,Ginger,203317
+2008,kasaragodu,6470,3729.8,41,Coastal alluvials,Basin,107809,55,Ginger,2134
+2009,kasaragodu,6709,3729.8,42,Laterite soil,Basin,1132,53,Ginger,45186
+2010,kasaragodu,6186,3729.8,42,Dark brown alayey soil,Basin,23960,53.5,Ginger,238542
+2011,kasaragodu,6503,2746.2,42,Coastal alluvials,Basin,126487,52.5,Ginger,1516
+2012,kasaragodu,5220,2746.2,43,Laterite soil,Basin,804,56,Ginger,57259
+2013,kasaragodu,4677,2746.2,27,Dark brown alayey soil,Basin,30362,57,Ginger,234779
+2014,kasaragodu,4803,3360,27,Coastal alluvials,Basin,124492,57.5,Ginger,1493
+2015,kasaragodu,3739,3360,27,Laterite soil,Basin,792,57,Ginger,64409
+2016,kasaragodu,3529,3360,27,Dark brown alayey soil,Basin,34153,55,Ginger,249978
+2017,kasaragodu,3649,3605.4,27,Coastal alluvials,Basin,132551,56,Ginger,637
+2018,kasaragodu,1374,3605.4,27,Laterite soil,Basin,338,54,Ginger,43311
+2018,hubli,1564,2006.23,25,black soil,Drip,1648,59.65,Onion,4565
+2019,hubli,2564,2006.23,25,black soil,Drip,1648,59.65,Onion,4565
+2017,hubli,2164,2006.23,25,black soil,Drip,1648,59.65,Onion,3564
+2017,hubli,3024,2006.23,25,Red soil,Drip,1648,59.65,paddy,8956
+2016,hubli,1834,2006.23,25,Red soil,Drip,1648,59.65,paddy,4523
